@@ -12,7 +12,7 @@ w.r.t Paper ["APIBot: Question Answering Bot for API Documentation"](https://dl.
 4.  Go the the folder  [ExtractDocInfo](https://github.com/abhishek9sharma/apibot/tree/master/ExtractDocInfo/) and run [IterateOverAPIDocs.py](https://github.com/abhishek9sharma/apibot/tree/master/ExtractDocInfo/IterateOverAPIDocs.py).
 5. You should see the converted documents in the folder [FACTS](https://github.com/abhishek9sharma/apibot/tree/master/Data/FACTS).
 
-####Misc:
+#### Misc:
 *   In case you delete the folders in  [Data](https://github.com/abhishek9sharma/apibot/tree/master/Data) you may run the .\setup.sh file present in the same folder.
 
 
