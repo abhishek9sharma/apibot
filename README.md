@@ -13,7 +13,7 @@ w.r.t Paper ["APIBot: Question Answering Bot for API Documentation"](https://dl.
 5. You should see the converted documents in the folder [FACTS](https://github.com/abhishek9sharma/apibot/tree/master/Data/FACTS). This corpus can be plugged in to [Sirius](http://sirius.clarity-lab.org/sirius/).
 
 ####Misc:
-*   In case you delete the folder in  [Data](https://github.com/abhishek9sharma/apibot/tree/master/Data) you may run the .\setups.sh file present in the same folder.
+*   In case you delete the folder in  [Data](https://github.com/abhishek9sharma/apibot/tree/master/Data) you may run the .\setup.sh file present in the same folder.
 
 
 
