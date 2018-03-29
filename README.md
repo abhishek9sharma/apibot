@@ -2,6 +2,15 @@
 A set Python Scripts to Convert Java API Documentation into a more readable Natural Language Format. These related to w.r.t _Domain Adapation_ Component 
 w.r.t Paper ["APIBot: Question Answering Bot for API Documentation"](https://dl.acm.org/citation.cfm?id=3155585)
 
+# Requirements
+```
+python>=3.5.2 (Tested on Python 3.5.2 and Ubuntu 16.04 LTS)
+Ubuntu==16.04 LTS
+html2text==2018.1.9
+nltk==3.2.1
+beautifulsoup4==4.6.0
+lxml==4.2.1
+```
 
 # Usage
 
